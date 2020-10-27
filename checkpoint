@@ -1,0 +1,2 @@
+model_checkpoint_path: "night_model-63000"
+all_model_checkpoint_paths: "night_model-63000"
