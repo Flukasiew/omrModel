@@ -1,17 +1,4 @@
 # ReadME
-Pliki zawierajace podzial na zestawy Train/Valid naszych danych sa w our_train.txt i our_valid.txt.
-
-Orginalny zbior jest podzielony w original_train/valid.txt
-
-Przyklad podzialu zbioru we wlasciwy sposob jest w https://mega.nz/file/nCgmzKKC#nedQOdFW0HUSMZ9Ah7nSTE4FVdTueDQ8rvaaVVJgtuw
-
-Kopia wag modelu jest w https://mega.nz/file/Tbo2yByR#7wkVAFqa4DrXxzhO-zK3cd4J7a8RRCclQ9kKO0v-y0I
-
-Vocabulary jest zawarty w pliku znaki.txgit
-
-Biblioteki w ktorym z mojego srodowiska w pliku package_list.txt.
-
-Conda env jest w pliku condaenv.txt
 
 Uzywanie modelu jest opisane ponizej.
 
